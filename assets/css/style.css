@@ -212,7 +212,6 @@ header {
     left: 0;
     font-size: 1.4rem;
     z-index: 9999;
-    position: fixed;
     top: 0;
     left: 0;
 }
@@ -294,7 +293,6 @@ header {
 .hero-sec .hero-sec-left h4,
 .hero-sec .hero-sec-left h3 {
     max-width: 80%;
-    text-shadow: 2px 1px #71717186;
 }
 
 .hero-sec .hero-sec-left h3 {
